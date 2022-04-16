@@ -1,13 +1,16 @@
 import * as React from 'react'
 import Layout from '../components/constant/layout/layout'
+import Banner from '../components/pages/landing/banner'
 
 
 const Index = () => {
   return(
     <Layout>
-    <div className={"w-full bg-orange-100"}>
-      hello
-    </div>
+   {/* banner section */}
+   <Banner />
+   <div>
+     hello moving away from banner
+   </div>
     </Layout>
   )
 }

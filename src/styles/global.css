@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@screen xl{
+    #banner{
+        height: 640px;
+    }
+    #banner #bannerImg{
+        height: 640px;
+    }
+}
