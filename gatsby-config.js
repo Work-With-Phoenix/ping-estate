@@ -3,5 +3,7 @@ module.exports = {
     title: `ping-estate`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+    `gatsby-plugin-postcss`
+  ],
 }
