@@ -6,13 +6,13 @@ import { Link } from 'gatsby'
 
 
 const Banner = () => {
-    const handleClick = {handleClick}
+    
     return(
         <div className={"w-full xl:grid xl:grid-cols-2 xl:overflow-hidden "} id={"banner"}>
             {/* content */}
             <div className={"xl:bg-white flex flex-col justify-between "}>
                 
-                    <div className={"px-2 text-center xl:text-left flex flex-col space-y-3 xl:mt-32 xl:px-24 ml-2 py-10 xl:py-0 items-center xl:items-end"}>
+                    <div className={"px-2 text-center  xl:text-left flex flex-col space-y-3 xl:mt-32 xl:px-24 ml-2 py-10 xl:py-0 items-center xl:items-start"}>
                     <h1 className={"font-medium xl:text-4xl text-2xl xl:w-7/12 capitalize"}>find your perfect home</h1>
                    
                     <p className={"xl:w-10/12 text-sm text-stone-500 xl:text-stone-400  tracking-wide"}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
