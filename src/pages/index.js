@@ -1,5 +1,6 @@
 import * as React from 'react'
 import Layout from '../components/constant/layout/layout'
+import AboutSection from '../components/pages/landing/aboutSection'
 import Banner from '../components/pages/landing/banner'
 
 
@@ -8,9 +9,11 @@ const Index = () => {
     <Layout>
    {/* banner section */}
    <Banner />
-   <div>
-     hello moving away from banner
-   </div>
+       
+      <div className={"w-full py-32"}>
+         {/* about section */}
+      <AboutSection />
+      </div>
     </Layout>
   )
 }
