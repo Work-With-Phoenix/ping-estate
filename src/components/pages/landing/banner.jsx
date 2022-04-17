@@ -23,8 +23,8 @@ const Banner = () => {
                     </div>
                     </div>
                
-                 <div className={"hidden xl:flex flex-row space-x-6 w-52 h-44 bg-blue-200 ml-20"}>
-                        <div className={"  bg-orange-200"}>
+                 <div className={"hidden xl:flex flex-row space-x-4 w-52 h-44  ml-28"}>
+                        <div className={"  bg-orange-200 -ml-2"}>
                         <StaticImage src={"../../../images/thumbnails/thumbnail4.jpg"} alt={"ping.Estate"} className={" w-52 h44"} place-holder={"blurred"} />
                         </div>
                         <div className={" bg-orange-200"}>
