@@ -9,11 +9,11 @@ const ServiceSection = () =>{
         {/* heading */}
         <div className={"flex flex-col space-y-2 items-center"}>
             <h1 className={"text-2xl font-medium xl:w-4/12 xl:text-center"}>Choose the best type of services</h1>
-            <p className={"xl:w-10/12 text-sm text-stone-500 xl:text-stone-400  tracking-wide xl:text-center"}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p>
+            <p className={"xl:w-5/12 text-sm text-stone-500 xl:text-stone-400  tracking-wide xl:text-center"}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod. </p>
         </div>
        </div>
        {/* cards 1 */}
-       <div className={"xl:grid xl:grid-cols-3 xl:gap-x-10 flex flex-col space-y-6 xl:space-y-0"}>
+       <div className={"xl:grid xl:grid-cols-3 xl:gap-x-10 flex flex-col space-y-6 xl:space-y-0 xl:pr-32"}>
            {/* card 1 */}
            <div className={"bg-orange-400 px-6 py-8 text-white shadow"}>
             {/* head */}
