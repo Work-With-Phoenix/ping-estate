@@ -8,7 +8,7 @@ const Webnav = () => {
         <div className={"w-full hidden xl:flex"}>
             <div className={"w-full py-6 flex flex-row items-center justify-around "}>
                 {/*logo  */}
-                <div className={"-ml-3"}>
+                <div className={""}>
                     <Link to={"#"} className={"text-2xl font-semibold text-stone-800"}>ping.Estate</Link>
                 </div>
                 <div className={"px-10"}>

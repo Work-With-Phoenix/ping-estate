@@ -19,7 +19,7 @@ const Banner = () => {
                     <p className={"xl:w-10/12 text-sm text-stone-500 xl:text-stone-400  tracking-wide"}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                   
                     <div className={"pt-10"}>
-                        <Link to={"#"} className={"py-4 text-sm px-8 rounded-full bg-orange-500 hover:bg-orange-600 text-white capitalize text-medium"} >get started</Link>
+                        <Link to={"#"} className={"py-3 text-sm px-8 rounded-full bg-orange-500 hover:bg-orange-600 text-white capitalize text-medium"} >get started</Link>
                     </div>
                     </div>
                

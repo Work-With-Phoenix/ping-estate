@@ -1,5 +1,6 @@
 import { StaticImage } from 'gatsby-plugin-image'
 import * as React from 'react'
+import { Link } from 'gatsby'
 
 
 
@@ -28,6 +29,9 @@ const AboutSection = () =>{
                                <h2 className={"text-lg font-semibold pt-2"}>Design Development</h2>
                                <p className={"py-4 text-sm text-stone-500"}>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa</p>
                            </div>
+                           <div className={"pt-10"}>
+                        <Link to={"#"} className={"py-3 text-sm px-8 rounded-full bg-orange-500 hover:bg-orange-600 text-white capitalize text-medium"} >read more</Link>
+                    </div>
                           </div>
                         </div>
                         {/* images */}
