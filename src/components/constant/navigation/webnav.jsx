@@ -24,7 +24,7 @@ const Webnav = () => {
                 </div>
                 {/* login */}
                 <div>
-                    <Link to={""} className={"text-sm py-2 bg-white border border-orange-600 text-orange-600 capitalize rounded-full px-6"}>login</Link>
+                    <Link to={""} className={"text-sm py-2 bg-white border border-orange-400 text-orange-400 hover:bg-orange-400 hover:text-white capitalize rounded-full px-6"}>login</Link>
                 </div>
            
 
