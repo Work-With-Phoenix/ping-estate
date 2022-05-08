@@ -1,54 +1,65 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="#">
+    <img alt="Work With Phoenix" src="https://github.com/Work-With-Phoenix/gatsby-tailwind-startup/raw/main/src/images/phoenix-logo.svg" width="60" style="margin-top: .8rem"/>
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+ Ping Estate Template
 </h1>
 
-## 🚀 Quick start
+## 👀 Introduction
 
-1.  **Create a Gatsby site.**
+1.  **What's this?**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    The following repository is a template model created for education purposes or inspiration. The template is created from a design I got on *Pinterest* which directed me to *Dribbble* there was a lot of tabs open that day.
+          
 
+2.  **Download the project**
+    
+    The project is meant to be for anyone who would like to have a feel of what a project created by both *Gatsby* & *Tailwind* looks like. Once you clone or download the project from the repo, follow the steps highlighted below to get your project set up.
     ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
+    # clone the ping estate template project  repository
+    git clone -b main https://github.com/Work-With-Phoenix/ping-estate
     ```
 
-2.  **Start developing.**
+3.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    #copy it to a project dir of your choice
+    cp -r ping-estate
+
+    #go to the new directory
+    cd my-project
+
+    #install packages
+    npm install
+
+    #run server
+    gatsby develop 
     ```
 
-3.  **Open the code and start customizing!**
+4.  **Open the code and start customizing!**
 
-    Your site is now running at http://localhost:8000!
+    Runs the app in the development mode.
+    Open http://localhost:8000 to view it in your browser.
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+    The page will reload when you make changes.
+    You may also see any lint errors in the console.
 
-4.  **Learn more**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## ✊ Community
+The projects I work on are mostly open source and inspired by you, projects will be done for both *freemium* and/or *premium* projects.
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+* Consultation
+* Code Reviews
+* Support 
+* Design
+* Research
+* Education
+* General fun stuff I guess
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+**Good Luck, and you are doing an amazing job  🤗**
