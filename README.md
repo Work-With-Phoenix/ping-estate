@@ -62,4 +62,4 @@ The projects I work on are mostly open source and inspired by you, projects will
 * General fun stuff I guess
 
 
-**Good Luck, and you are doing an amazing job  🤗**
+**Good Luck! You are doing an amazing job  🤗**
