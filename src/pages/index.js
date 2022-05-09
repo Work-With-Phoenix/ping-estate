@@ -3,6 +3,8 @@ import Layout from '../components/constant/layout/layout'
 import AboutSection from '../components/pages/landing/aboutSection'
 import Banner from '../components/pages/landing/banner'
 import ServiceSection from '../components/pages/landing/serviceSection'
+import Listingsection from "../components/pages/landing/listingSection";
+import Testimonialsection from "../components/pages/landing/testimonalSection";
 
 
 const Index = () => {
@@ -16,6 +18,10 @@ const Index = () => {
       <AboutSection />
       {/* Service Section */}
       <ServiceSection />
+      {/*Listing Section*/}
+      <Listingsection />
+      {/*Testimonials section*/}
+<Testimonialsection />
       </div>
     </Layout>
   )
