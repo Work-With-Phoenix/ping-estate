@@ -51,7 +51,7 @@
 
 
 ## ✊ Community
-The projects I work on are mostly open source and inspired by you, projects will be done for both *freemium* and/or *premium* projects.
+The projects I work on are mostly open source and inspired by you, projects will be done in both *freemium* and/or *premium* versions.
 
 * Consultation
 * Code Reviews
